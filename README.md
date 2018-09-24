@@ -1,3 +1,5 @@
+## Deprecated! The project is now located at [this](https://github.com/NUIG-ROCSAFE/CBRNeVirtualEnvironment) repository
+
 # ROCSAFE Technology Demo Code
 
 ROCSAFE (**R**emotely **O**perated **CBRNe** **S**cene **A**ssessment and **F**orensic **E**xamination) is an EU horizon 2020 project that contains Aritificial Intelligence components. This repo contains:
